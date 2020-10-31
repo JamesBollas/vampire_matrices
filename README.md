@@ -1,4 +1,4 @@
-# Exhausive search for 1 digit 3x3 vampire matrices where both are invertable
+# Exhausive search for 1 digit 3x3 vampire matrices where both are invertible
 
 first few are 
 
