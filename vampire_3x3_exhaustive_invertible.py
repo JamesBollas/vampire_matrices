@@ -3,6 +3,22 @@
 Created on Tue Oct 13 21:43:25 2020
 
 @author: James
+
+exhaustively search for 3x3 vampire matrices with only single digits where both matrices are invertible
+
+first pair is this:
+[[1 1 1]
+ [5 1 5]
+ [5 5 1]]
+[[5. 1. 1.]
+ [5. 9. 1.]
+ [5. 1. 9.]]
+ 
+ which multiply to
+ 
+ [[15. 11. 11.]
+ [55. 19. 51.]
+ [55. 51. 19.]]
 """
 
 import numpy as np
